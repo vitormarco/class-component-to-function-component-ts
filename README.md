@@ -3,7 +3,7 @@
 </p> -->
 
 <p align="center">
- <a href="#spacetraveling">Sobre</a> •
+ <a href="#gorestaurant">Sobre</a> •
  <a href="#%EF%B8%8Ffuncionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar o projeto</a>  •
