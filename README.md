@@ -27,8 +27,8 @@ Aplicação já funcional onde o principal objetivo é realizar dois processos d
 
 - [x] TypeScript
 - [ ] Migração de:
-  - [ ] src/components/Food/index.jsx;
-  - [ ] src/components/Food/styles.js;
+  - [x] src/components/Food/index.jsx;
+  - [x] src/components/Food/styles.js;
   - [ ] src/components/Header/index.jsx;
   - [ ] src/components/Header/styles.js;
   - [ ] src/components/Input/index.jsx;
