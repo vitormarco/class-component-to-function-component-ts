@@ -70,7 +70,7 @@ Após tudo configurado e instalado
 
 ```bash
   # Clone este repositório
-  git clone https://github.com/vitormarco/class-component-to-function-component-ts.git
+  git clone https://github.com/vitormarco/gorestaurant-js-class-to-ts-func.git
 ```
 
 ```bash
