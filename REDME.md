@@ -25,7 +25,7 @@ Aplicação já funcional onde o principal objetivo é realizar dois processos d
 
 ## ⚙️Funcionalidades
 
-- [ ] Preparando o TypeScript
+- [x] TypeScript
 - [ ] Migração de:
   - [ ] src/components/Food/index.jsx;
   - [ ] src/components/Food/styles.js;
