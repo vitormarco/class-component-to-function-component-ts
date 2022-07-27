@@ -36,8 +36,8 @@ Aplicação já funcional onde o principal objetivo é realizar dois processos d
   - [x] src/components/Modal/index.jsx;
   - [x] src/components/ModalAddFood/index.jsx;
   - [x] src/components/ModalAddFood/styles.js;
-  - [ ] src/components/ModalEditFood/index.jsx;
-  - [ ] src/components/ModalEditFood/styles.js;
+  - [x] src/components/ModalEditFood/index.jsx;
+  - [x] src/components/ModalEditFood/styles.js;
   - [ ] src/pages/Dashboard/index.jsx;
   - [ ] src/pages/Dashboard/styles.js;
   - [ ] src/routes/index.jsx;

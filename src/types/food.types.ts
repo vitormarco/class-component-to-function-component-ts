@@ -8,3 +8,5 @@ export type FoodType = {
 };
 
 export type AddFoodType = Omit<FoodType, "id" | "available">;
+
+export type UpdateFoodType = AddFoodType;
