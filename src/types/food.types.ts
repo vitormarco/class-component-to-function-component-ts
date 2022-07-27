@@ -6,3 +6,5 @@ export type FoodType = {
   available: boolean;
   image: string;
 };
+
+export type AddFoodType = Omit<FoodType, "id" | "available">;
