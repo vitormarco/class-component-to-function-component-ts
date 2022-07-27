@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="./github/#"   width="#" alt="#" />
-</p> -->
+<p align="center">
+  <img src="./github/logo.svg"   width="300px" alt="GoRestaurant" />
+</p>
 
 <p align="center">
  <a href="#gorestaurant">Sobre</a> •
@@ -12,9 +12,10 @@
 
 # GoRestaurant
 
-<!-- <p align="center">
-  <img src="./github/#"   width="#" alt="#" />
-</p> -->
+<div style="display: flex; gap: 8px">
+  <img src="./github/baseApp_delete.gif" width="50%" alt="Layout + remove food" />
+  <img src="./github/edit_active_createNew.gif" width="50%" alt="Create and edit food" />
+</div>
 
 Aplicação já funcional onde o principal objetivo é realizar dois processos de migração: <br />
 
@@ -26,7 +27,7 @@ Aplicação já funcional onde o principal objetivo é realizar dois processos d
 ## ⚙️Funcionalidades
 
 - [x] TypeScript
-- [ ] Migração de:
+- [x] Migração de:
   - [x] src/components/Food/index.jsx;
   - [x] src/components/Food/styles.js;
   - [x] src/components/Header/index.jsx;
@@ -38,13 +39,13 @@ Aplicação já funcional onde o principal objetivo é realizar dois processos d
   - [x] src/components/ModalAddFood/styles.js;
   - [x] src/components/ModalEditFood/index.jsx;
   - [x] src/components/ModalEditFood/styles.js;
-  - [ ] src/pages/Dashboard/index.jsx;
-  - [ ] src/pages/Dashboard/styles.js;
-  - [ ] src/routes/index.jsx;
-  - [ ] src/services/api.js;
-  - [ ] src/styles/global.js;
-  - [ ] src/App.js;
-  - [ ] src/index.js.
+  - [x] src/pages/Dashboard/index.jsx;
+  - [x] src/pages/Dashboard/styles.js;
+  - [x] src/routes/index.jsx;
+  - [x] src/services/api.js;
+  - [x] src/styles/global.js;
+  - [x] src/App.js;
+  - [x] src/index.js.
 
 ## 🎨 Layout
 
