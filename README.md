@@ -12,17 +12,17 @@
 
 # GoRestaurant
 
-<div style="display: flex; gap: 8px">
-  <img src="./github/baseApp_delete.gif" width="50%" alt="Layout + remove food" />
-  <img src="./github/edit_active_createNew.gif" width="50%" alt="Create and edit food" />
-</div>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 8px">
+  <img src="./github/baseApp_delete.gif" width="400" alt="Layout + remove food" />
+  <img src="./github/edit_active_createNew.gif" width="400" alt="Create and edit food" />
+</p>
 
 Aplicação já funcional onde o principal objetivo é realizar dois processos de migração: <br />
 
 - de Javascript para Typescript;
 - de Class Components para Function Components.
 
-<h4 align="center"> 🚧 GoRestaurant 🚀 em construção 🚧 </h4>
+<h4 align="center"> 🚧 GoRestaurant ✅ Concluído 🚧 </h4>
 
 ## ⚙️Funcionalidades
 
